@@ -9,4 +9,7 @@ Here are a few projects I am currently or have previously worked on
 
 ## Vibrant Learning
 
+## Physics Simulations
+
+## Research
 [back](./)
