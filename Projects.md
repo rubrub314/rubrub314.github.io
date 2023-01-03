@@ -5,11 +5,11 @@ layout: default
 # Projects
 Here are a few projects I am currently or have previously worked on
 
-## Physics Genie
+### Physics Genie
 
-## Vibrant Learning
+### Vibrant Learning
 
-## Physics Simulations
+### Physics Simulations
 
-## Research
+### Research
 [back](./)
