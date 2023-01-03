@@ -6,6 +6,6 @@ layout: default
 ---
 
 
-[Projects!](./Projects.html)
-[Handouts!](./Handouts.html)
+[Projects!](./Projects.html)\
+[Handouts!](./Handouts.html)\
 [Tutoring!](./Tutoring.html)
