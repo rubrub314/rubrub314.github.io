@@ -13,3 +13,7 @@ I then installed the midnight theme from GitHub Pages which also took forever be
 Over the next few weeks, I intend to make the website look nicer, add handouts, and figure out some paid tutoring logistics. But, I am really happy with what I have been able to produce. It should not have take 16 hours over the span of four days, but I am pretty proud of myself because I tried to make one last year and that flopped terribly.
 <br> <br>
 Anyways, thanks so much for visiting this site! I hope you find it somewhat useful and that it inspires you to make your own website.
+<br>
+<br>
+
+[back](./)
