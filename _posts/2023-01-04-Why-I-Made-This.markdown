@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This Took Way Too Long"
-date:   2023-01-02 12:39:33 -0600
+date:   2023-01-04 5:49:33 -0600
 ---
 
 Hello! This website took ages to make. I started on January 1st because I have been wanting to make a website where I can put all of my projects and things, and I guess the "New Year's Resolution" provided me motivation to actually make this.
