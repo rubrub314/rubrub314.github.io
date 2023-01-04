@@ -14,7 +14,7 @@ main { display: block; /* Default value of `display` of `main` element is 'inlin
 img 
 { 
 max-width: 100%; vertical-align: middle; 
-Padding: 10px;
+Padding: 50px;
 }
 
 /** Figures */
